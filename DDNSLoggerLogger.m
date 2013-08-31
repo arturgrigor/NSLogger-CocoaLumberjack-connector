@@ -85,8 +85,10 @@ static Logger *_DDNSLogger_logger = nil;
 			case LOG_FLAG_INFO  : nsloggerLogLevel = 2; break;
 			default : nsloggerLogLevel = 3; break;
 		}
-
-	LogMessageF(logMessage->file, logMessage->lineNumber, logMessage->function, [logMessage fileName], 
+        
+    NSString *domain = (logMessage->tag) ? (NSString *)logMessage->tag : [logMessage fileName];
+        
+	LogMessageF(logMessage->file, logMessage->lineNumber, logMessage->function, domain,
                                 nsloggerLogLevel, @"%@", logMsg);
     }
 }

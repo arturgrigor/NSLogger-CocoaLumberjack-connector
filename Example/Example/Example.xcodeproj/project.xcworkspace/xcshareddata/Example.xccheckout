@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6DAF43F9-3DC2-41B8-AAB9-E2AE694A7AF2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>02814A06-CA10-4C95-9494-50821C10A9D0</key>
+		<string>https://github.com/robbiehanson/CocoaLumberjack.git</string>
+		<key>7F8E65EE-A312-42E4-A079-49F017444797</key>
+		<string>https://github.com/arturgrigor/NSLogger-CocoaLumberjack-connector.git</string>
+		<key>E71A3EB3-3309-49DE-92F9-14B67FDAC26B</key>
+		<string>https://github.com/fpillet/NSLogger.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/Example/Example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>02814A06-CA10-4C95-9494-50821C10A9D0</key>
+		<string>../../../../CocoaLumberjack</string>
+		<key>7F8E65EE-A312-42E4-A079-49F017444797</key>
+		<string>../../../..</string>
+		<key>E71A3EB3-3309-49DE-92F9-14B67FDAC26B</key>
+		<string>../../../../NSLogger</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arturgrigor/NSLogger-CocoaLumberjack-connector.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F8E65EE-A312-42E4-A079-49F017444797</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>02814A06-CA10-4C95-9494-50821C10A9D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocoaLumberjack</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E71A3EB3-3309-49DE-92F9-14B67FDAC26B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSLogger</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F8E65EE-A312-42E4-A079-49F017444797</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSLogger-CocoaLumberjack-connector-fork</string>
+		</dict>
+	</array>
+</dict>
+</plist>
