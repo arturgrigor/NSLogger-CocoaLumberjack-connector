@@ -2,7 +2,7 @@
 
 ##CocoaPods##
 
-```pod 'NSLogger-CocoaLumberjack-connector-AG-fork', :podspec => 'https://raw.github.com/arturgrigor/NSLogger-CocoaLumberjack-connector/master/NSLogger-CocoaLumberjack-connector.podspec'```
+```pod 'NSLogger-CocoaLumberjack-connector', :podspec => 'https://raw.github.com/arturgrigor/NSLogger-CocoaLumberjack-connector/master/NSLogger-CocoaLumberjack-connector.podspec'```
 
 ##Notes##
 
