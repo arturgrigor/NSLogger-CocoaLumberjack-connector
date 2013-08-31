@@ -1,4 +1,10 @@
-# NSLogger-CocoaLumberjack-connector #
+#NSLogger-CocoaLumberjack-connector#
+
+##CocoaPods##
+
+```pod 'NSLogger-CocoaLumberjack-connector-AG-fork', :podspec => 'https://raw.github.com/arturgrigor/NSLogger-CocoaLumberjack-connector/master/NSLogger-CocoaLumberjack-connector.podspec'```
+
+##Notes##
 
 This is a bridge for the projects
 

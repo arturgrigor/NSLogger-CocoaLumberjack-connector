@@ -52,6 +52,9 @@
 		78DD10941472D0DE00DBE018 /* LoggerClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoggerClient.m; path = "../../../NSLogger/Client Logger/iOS/LoggerClient.m"; sourceTree = "<group>"; };
 		78DD10951472D0DE00DBE018 /* LoggerCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoggerCommon.h; path = "../../../NSLogger/Client Logger/iOS/LoggerCommon.h"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Example-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Example-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		FE203FF517D20FA100DA84B8 /* NSLogger-CocoaLumberjack-connector.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = "NSLogger-CocoaLumberjack-connector.podspec"; path = "../../NSLogger-CocoaLumberjack-connector.podspec"; sourceTree = "<group>"; };
+		FE203FF717D2108D00DA84B8 /* DDLogExtras.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = DDLogExtras.h; path = ../../../DDLogExtras.h; sourceTree = "<group>"; };
+		FE203FF917D212F000DA84B8 /* README.markdown */ = {isa = PBXFileReference; lastKnownFileType = text; name = README.markdown; path = ../../README.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				FE203FF917D212F000DA84B8 /* README.markdown */,
+				FE203FF517D20FA100DA84B8 /* NSLogger-CocoaLumberjack-connector.podspec */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -138,6 +143,7 @@
 			children = (
 				78C0A45112A05C740049B7C9 /* DDNSLoggerLogger.h */,
 				78C0A45212A05C740049B7C9 /* DDNSLoggerLogger.m */,
+				FE203FF717D2108D00DA84B8 /* DDLogExtras.h */,
 			);
 			name = DDNSLoggerLogger;
 			sourceTree = "<group>";
